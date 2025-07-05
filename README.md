@@ -90,13 +90,8 @@ POST /predict
 
 ---
 
-## 📸 Screenshots
 
-| Popup UI | Phishing Banner |
-|----------|-----------------|
-| ![Popup](screenshots/popup.png) | ![Warning](screenshots/banner.png) |
 
-> *(Add actual screenshots in the `screenshots/` folder in your repo)*
 
 ---
 
@@ -107,10 +102,6 @@ POST /predict
 - Package and publish on Chrome Web Store
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
